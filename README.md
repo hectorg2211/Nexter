@@ -61,7 +61,7 @@
 ## About The Project
 Completely responsive Fictional Real State App developed to showcase the use of CSS Flexbox and Grid
 
-[![Nexter](https://github.com/hectorg2211/Nexter/blob/main/Nexter.jpg)](https://Nexter-hector-app.netlify.app/)
+[![Nexter](https://github.com/hectorg2211/Nexter/blob/master/Nexter.jpg)](https://Nexter-hector-app.netlify.app/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -76,7 +76,7 @@ Completely responsive Fictional Real State App developed to showcase the use of 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-![Nexter](https://github.com/hectorg2211/Nexter/blob/main/Full%20Nexter.jpeg)
+![Nexter](https://github.com/hectorg2211/Nexter/blob/master/Full%20nexter.jpeg)
 
 <!-- GETTING STARTED -->
 
