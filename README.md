@@ -17,7 +17,7 @@
 <h3 align="center">Nexter</h3>
 
   <p align="center">
-    Fictional Tours App
+    Fictional Real State App
     <br />
     <a href="https://github.com/hectorg2211/Nexter"><strong>Explore the docs »</strong></a>
     <br />
